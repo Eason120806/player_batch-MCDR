@@ -1,4 +1,21 @@
-# PlayerBatch - MCDR假人批量操作插件
+# PlayerBatch - Maintained Version
+
+基于 [Eason120806/player_batch-MCDR](https://github.com/Eason120806/player_batch-MCDR) 的维护版本
+
+## 🎯 更新内容
+- ✅ 修复假人加入检测问题
+- ✅ 添加停止命令 `!!plb stop`
+- ✅ 优化动作执行逻辑
+- ✅ 支持持续操作命令
+
+## 👥 贡献者
+- **原作者**: [Eason120806](https://github.com/Eason120806) - 初始版本
+- **维护者**: [TestKue] - bug修复和功能更新
+
+## 📥 安装
+1. 下载最新版本
+2. 放入 MCDR 的 `plugins` 文件夹
+3. 确保已安装 `minecraft_data_api` 插件
 
 🎮 一个基于MCDReforged的插件，提供强大的Carpet假人批量操作功能
 
@@ -55,6 +72,12 @@
 ```text
 !!plb init <名称> <起始> <长度> <间隔1> <间隔2> <x> <y> <z> <动作>
 !!playerbatch init <名称> <起始> <长度> <间隔1> <间隔2> <x> <y> <z> <动作>
+```
+
+### 暂停所有操作
+```text
+!!plb stop
+!!playerbatch stop
 ```
 
 ## ⚠️ 注意事项

@@ -2,14 +2,14 @@
     "id": "player_batch",
     "version": "1.0.6",
     "name": "PlayerBatch",
-    "author": "Eason120806",
+    "author": "TestKue",
     "entrypoint": "player_batch",
-    "link": "https://github.com/Eason120806/player_batch-MCDR/",
+    "link": "https://github.com/TestKue/Re_player_batch-MCDR/",
     "dependencies": {
         "mcdreforged": ">=2.0.0"
     },
     "description": {
-        "zh_cn": "MCDR假人批量操作插件",
-        "en_us": "MCDR Batch Bot Management Plugin"
+        "zh_cn": "MCDR假人批量操作插件 - 修复维护版",
+        "en_us": "MCDR Batch Bot Management Plugin - Maintained Version"
     }
 }
