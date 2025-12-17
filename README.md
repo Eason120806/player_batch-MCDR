@@ -57,6 +57,13 @@
 !!playerbatch init <名称> <起始> <长度> <间隔1> <间隔2> <x> <y> <z> <动作>
 ```
 
+### 停止命令
+```text
+!!plb stop
+!!playerbatch stop
+```
+
+
 ## ⚠️ 注意事项
 
 1. 需要安装Carpet Mod及其假人功能
