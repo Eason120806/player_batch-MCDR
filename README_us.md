@@ -57,6 +57,13 @@ Path: `config/player_batch.json`
 !!playerbatch init <name> <start> <length> <interval1> <interval2> <x> <y> <z> <action>
 ```
 
+### Stop command
+```text
+!!plb stop
+!!playerbatch stop
+```
+
+
 ## ⚠️ Notes
 
 1. Requires Carpet Mod with fake player functionality
